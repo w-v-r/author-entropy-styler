@@ -6,3 +6,6 @@ The starting point will be to just look at the token probabiltiy of a text as it
 
 The next step will be to train models using author's writing so that the LLM can be used to measure the entropy of the text with respect to the author's writing style.
 
+I guess this is about using LLMs not to generate text, but to measure the entropy of the text with respect to the author's writing style.
+
+And this could lead into the broad concept of using LLMs to measure text with respect to an expectation of what the text should be.
