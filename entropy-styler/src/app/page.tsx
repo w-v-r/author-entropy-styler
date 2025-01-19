@@ -1,4 +1,4 @@
-import ColorfulEditor from './components/ColorfulEditor';
+import ColorfulEditor from './components/ColorfulEditor.tsx';
 
 export default function Home() {
   return (
